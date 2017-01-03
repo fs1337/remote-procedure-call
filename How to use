@@ -1,0 +1,4 @@
+There are two processes in my project, we use rpc to transfer data between client and server.
+Executing steps: >make
+>./server
+>./client localhost
